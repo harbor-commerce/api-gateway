@@ -3,6 +3,7 @@ export const upstreams = {
   catalog: 'http://catalog-service:8000',
   search: 'http://search-service:8000',
   bff: 'http://mobile-bff:4000',
+  notifications: 'http://notifications-service:8000',
 }
 
 export const routes = {
